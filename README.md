@@ -4,6 +4,8 @@ This repository contains the work I made for the ADIENT company. They wanted to 
 
 You can find more information about the algorithms I made in the [codes](https://github.com/alejandro3141592/UR-Vision/tree/1280377e6da75b53db022f97a132acd944cce6f1/codes) folder. 
 
+
+In the following image you can see some circles drawn in red, these circles are the ones that the algorithm detected as screws.
 ![image (1)](https://github.com/alejandro3141592/UR-Vision/assets/132953325/cd89a47e-f92e-4749-9277-6182d7c18f82)
 
 ![Vídeo sin título ‐ Hecho con Clipchamp (4)](https://github.com/alejandro3141592/UR-Vision/assets/132953325/4900cd7d-b21a-4c40-b689-03997822562b)
